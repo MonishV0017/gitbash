@@ -12,6 +12,7 @@ int main() {
 
     // Display the result
     printf("Sum of %d, %d, and %d is %d\n", num1, num2, num3, sum);
+    printf("added successfully");
 
     return 0;
 }
